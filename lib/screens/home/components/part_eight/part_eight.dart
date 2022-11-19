@@ -1,5 +1,6 @@
-import 'package:assignment_flutter/screens/home/components/part_eight/part_eight_tile.dart';
 import 'package:flutter/material.dart';
+
+import 'part_eight_tile.dart';
 
 class PartEight extends StatelessWidget {
   const PartEight({super.key});

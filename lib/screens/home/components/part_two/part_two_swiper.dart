@@ -1,6 +1,7 @@
-import 'package:assignment_flutter/screens/home/components/part_two/part_two_card.dart';
 import 'package:card_swiper/card_swiper.dart';
 import 'package:flutter/material.dart';
+
+import 'part_two_card.dart';
 
 class PartTwoSwiper extends StatelessWidget {
   PartTwoSwiper({super.key});

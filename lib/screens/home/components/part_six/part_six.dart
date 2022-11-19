@@ -1,5 +1,6 @@
-import 'package:assignment_flutter/screens/home/components/part_six/part_six_card.dart';
 import 'package:flutter/material.dart';
+
+import 'part_six_card.dart';
 
 class PartSix extends StatelessWidget {
   const PartSix({super.key});

@@ -1,17 +1,18 @@
-import 'package:assignment_flutter/screens/home/components/floating_button/custom_floating_button.dart';
-import 'package:assignment_flutter/screens/home/components/part_eight/part_eight.dart';
-import 'package:assignment_flutter/screens/home/components/part_eleven/part_eleven.dart';
-import 'package:assignment_flutter/screens/home/components/part_five/part_five.dart';
-import 'package:assignment_flutter/screens/home/components/part_four/part_four.dart';
-import 'package:assignment_flutter/screens/home/components/part_nine/part_nine.dart';
-import 'package:assignment_flutter/screens/home/components/part_seven/part_seven.dart';
-import 'package:assignment_flutter/screens/home/components/part_six/part_six.dart';
-import 'package:assignment_flutter/screens/home/components/part_ten/part_ten.dart';
-import 'package:assignment_flutter/screens/home/components/part_two/part_two_swiper.dart';
-import 'package:assignment_flutter/screens/home/components/part_one/part_one.dart';
-import 'package:assignment_flutter/screens/home/components/part_three/part_three.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+
+import 'components/floating_button/custom_floating_button.dart';
+import 'components/part_eight/part_eight.dart';
+import 'components/part_eleven/part_eleven.dart';
+import 'components/part_five/part_five.dart';
+import 'components/part_four/part_four.dart';
+import 'components/part_nine/part_nine.dart';
+import 'components/part_one/part_one.dart';
+import 'components/part_seven/part_seven.dart';
+import 'components/part_six/part_six.dart';
+import 'components/part_ten/part_ten.dart';
+import 'components/part_three/part_three.dart';
+import 'components/part_two/part_two_swiper.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
